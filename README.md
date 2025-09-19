@@ -27,9 +27,8 @@ My focus is on **IoT security, embedded development, and AI integration** to mak
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [your-linkedin]((https://www.linkedin.com/in/amir-irsyad-abu-bakar-472a6228a/))
-- Email: [your-email](amirirsyadabubakar@gmail.com)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/amir-irsyad-abu-bakar-472a6228a/)  
+- 📧 [amirirsyadabubbakar@gmail.com](mailto:amirirsyadabubbakar@gmail.com)
 ---
 
 ⭐ *Pinned repositories below highlight my best work in IoT, security, and embedded systems.*
